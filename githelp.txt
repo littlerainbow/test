@@ -1,0 +1,6 @@
+git log --since=2.week //commits in 2 week
+
+git log -p -2 // last 2 commits with fill info       EXIT = Q
+
+
+git config --global core.editor "'C:\Program Files (x86)\Sublime Text 3\sublime_text.exe' -multInst -notabbar -nosession noPlugin" //свой редактор логов
